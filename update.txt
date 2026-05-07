@@ -1,0 +1,4 @@
+Work to be done:
+Notebook 2: pipeline issues, potential data leakage, and model calibration
+No explicit ablation studies yet
+Notebook 3 is still in progress and not finalized, but it will focus on the business value of the model.
