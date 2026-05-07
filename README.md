@@ -25,6 +25,6 @@ Instead of treating this as a generic image classification task, this project fo
 Loadsmart-Finalized-Pipeline/
 │
 ├── Notebook1_Sampling_pipeline.ipynb
-├── Notebook_2_Training_Pipeline.ipynb
-├── outline_updated.docx
+├── Notebook_2_Finalized_Pipeline.ipynb
+├── Notebook_3_testing_Pipeline.ipynb
 └── update.txt
